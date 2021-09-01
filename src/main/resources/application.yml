@@ -1,0 +1,6 @@
+spring:
+    data:
+        mongodb:
+            database: exam
+            port: 27017
+            host: localhost
